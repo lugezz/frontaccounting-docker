@@ -8,3 +8,4 @@ app/fa/company
 errors.log
 installed_languages.inc
 faillog.php
+*.pem
